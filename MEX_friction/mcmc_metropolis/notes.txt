@@ -1,0 +1,2 @@
+All files with the extension _paper contain the actual values used in my paper.
+bayes_paper.mat was too big for uploading. It is obtained by running get_std_param0_and_k.m.
